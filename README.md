@@ -10,6 +10,9 @@ g++ main.cpp -o main_executable
 ```
 If you want, you can run a custom file of test case.
 
+
+you can also create a test case with "test_case_generator.cpp"
+
 ```c
 ./main_executable <test_case.in
 ```
