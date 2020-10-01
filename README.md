@@ -1,7 +1,7 @@
 # AssignmentProblemProject
 Repository with the codes that were used in the project that talk about the idea of max-flow as a solution to the linear assignment problem.
 
-#To run the code 
+# To run the code 
 
 Just compile and run the code.
 
